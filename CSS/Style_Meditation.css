@@ -1,0 +1,52 @@
+body {
+  margin: 0;
+  padding: 0;
+  background-color: rgb(235, 235, 235);
+  font-family: 'Josefin Slab', serif;
+  font-size: 25px; /* Tamanho da fonte desejado */
+  align-items: center;
+  justify-content: center;
+  height: 100vh; /* 100% da altura da janela de visualização */
+  background-color: #f0f0f0; /* Cor de fundo da página */
+}
+
+footer {
+  background-color: white; /* Cor de fundo do rodapé */
+  color: black; /* Cor do texto do rodapé */
+  padding: 1px; /* Espaçamento interno do rodapé */
+  text-align: center;
+  margin-top: 5px; /* Espaçamento superior regulável */
+  font-size: 40px;
+}
+
+.page {
+  font-size: 40px;
+  /*font-weight: bold;*/
+  font-size: 'Josefin Slab', serif;;
+  text-align: center;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 40px;
+  padding: 20px; /* Espaçamento interno do título */
+}
+
+.navbar {
+  background-color: #FF8C00; /* Cor de fundo preta */
+  padding: 60px 20px; /* Espaçamento interno para ajustar o tamanho */
+  color: white; /* Cor do texto */
+  display: flexbox; /* Ativar flexbox para alinhar elementos */
+}
+
+.box {
+  font-size: 40px;
+  font-weight: bold;
+  text-align: center;
+  padding-top: 10px;
+  padding-right: 20px;
+  padding-bottom: 30px;
+  padding-left: 40px;
+  padding: 20px; /* Espaçamento interno do título */
+}
+
+
